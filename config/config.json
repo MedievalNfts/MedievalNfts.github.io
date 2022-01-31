@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x1A7a1F6F6f310Dd8d2B80245f82fdcFA267dFA11",
-  "SCAN_LINK": "https://polygonscan.com/address/0x1a7a1f6f6f310dd8d2b80245f82fdcfa267dfa11",
+  "CONTRACT_ADDRESS": "0xa2a77bbbcce6953123d97e1c7cf91a0b4a71d678",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa2a77bbbcce6953123d97e1c7cf91a0b4a71d678",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Polygotchi Universe",
-  "SYMBOL": "PCHI",
+  "NFT_NAME": "MedievalNftsbycore",
+  "SYMBOL": "MNBC",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 5000000000000000000,
   "DISPLAY_COST": 5,
   "GAS_LIMIT": 295000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/polygotchiuniverse",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/untitled-collection-179075948",
   "SHOW_BACKGROUND": true
 }
