@@ -10,7 +10,7 @@
   "SYMBOL": "MNBC",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 5000000000000000000,
-  "DISPLAY_COST": 5,
+  "DISPLAY_COST": 2,
   "GAS_LIMIT": 295000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/untitled-collection-179075948",
